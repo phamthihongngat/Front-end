@@ -1,20 +1,3 @@
-// import React from 'react'
-
-// import { Box } from "@mui/material";
-
-// const SideBar = () => {
-//   // ,
-//   return (
-//     <Box
-//       sx={{ background: "black", width: "18%", borderTop: "1px solid #ffffff" }}
-//     >
-//       SideBar
-//     </Box>
-//   );
-// };
-
-// export default SideBar;
-
 import * as React from "react";
 import {
   Box,
